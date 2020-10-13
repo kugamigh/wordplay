@@ -1,0 +1,156 @@
+Week 1
+
+10/08
+- Interface Creation
+    - Completed
+        - Main Menu
+        - Options
+    - Started
+        - Mode select
+        - Instructions
+            - Needs screenshots (to come much later)
+    - TODO
+        - Gameplay screen
+        - Feed in options to/from data
+    - Time taken: 4 hours
+
+- Navigation
+    - Completed
+        - Links away from main menu
+        - "Back" buttons implemented to return to main menu
+    - Started
+        - None
+    - TODO
+        - Mode select to gameplay (Needs Gameplay screen to be created)
+    - Time taken: 1 hour
+
+- Database Design
+    - Completed
+        - Obtained word list
+    - Started
+        - None
+    - TODO
+        - Clean up data file and connect to game
+    - Time taken: 1 hour
+
+11/08
+- Interface Creation
+    - Completed
+        - Mode select
+        - Fixed references for UI creation (will help with styling later)
+
+    - Time taken: 1 hour
+
+11/08
+- Interface creation
+    - Completed
+        - Basic styling for all currently created UIs
+
+    - Time taken: 4 hours
+
+Week 2
+19/08
+- Interface creation
+    - Applied custom font
+- Database Design
+    - Cleaned up data file
+
+    - Time taken: 3 hours
+
+Week 3
+26/08
+- Interface creation
+    - Started
+        - Gameplay screen
+- Database Design
+    - Completed
+        - Temporarily replaced word list for testing purposes
+    - Started
+        - Building new/better word list
+
+    - Time taken: 4 hours
+
+Week 4
+27/09
+- Interface Creation
+    - Completed
+        - Gameplay screen progress bar for "time remaining"
+
+    - Time taken: 2 hours
+
+02/09
+- Game screen
+    - Started
+        - Randomised word selection
+    - Completed
+        - Anagram word selection
+
+    - Time taken: 2 hours
+
+Week 5
+04/09
+- Game screen
+    - Started
+        - Keyboard input handling
+    - Completed
+        - Randomised word selection
+
+    - Time taken: 4 hours
+
+Week 6
+14/09
+- Game screen
+    - Started
+        - Keyboard input handling
+    - Completed
+        - Finished keyboard input handling
+
+    - Time taken: 6 hours
+
+15/09
+- Game screen
+    - Started
+        - Word Validation
+
+    - Time taken: 4 hours
+
+
+16/09
+- Game screen
+    - Started
+        - Game scoring
+
+    - Completed
+        - Word Validation
+
+    - Time taken: 5 hours
+
+17/09
+- Game screen
+    - Started
+        - Game end cleanup
+
+    - Completed
+        - Game scoring
+        - Game end cleanup
+
+    - Time taken: 4 hours
+
+18/09
+- Interface Design
+    - Started
+        - Leaderboards
+    - Completed
+        - Leaderboards
+- Database Design
+    - Started
+        - Leaderboards
+    - Completed
+        - Leaderboards
+- CSS
+    - Started
+        - Responsive design
+    - Completed
+        - Responsive layout
+
+    - Time taken: 9 hours 
